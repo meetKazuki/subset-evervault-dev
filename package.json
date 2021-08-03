@@ -1,0 +1,20 @@
+{
+  "name": "subset-evervault-cage",
+  "version": "1.0.0",
+  "description": "Serverless functions for Evervault cage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetKazuki/subset-evervault-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetKazuki/subset-evervault-dev/issues"
+  },
+  "homepage": "https://github.com/meetKazuki/subset-evervault-dev#readme"
+}
