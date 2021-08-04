@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/meetKazuki/subset-evervault-dev/issues"
   },
-  "homepage": "https://github.com/meetKazuki/subset-evervault-dev#readme"
+  "homepage": "https://github.com/meetKazuki/subset-evervault-dev#readme",
+  "dependencies": {
+    "got": "^11.8.2"
+  }
 }
